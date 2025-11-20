@@ -8,5 +8,5 @@ permalink: /dmp.html
 
 Created by my group in DSCI350M Fall 2025 course at the University of Oregon
 
-[link](https://www.google.com/)
+[link](/objects/Group%201%20-%20MAP.pdf)
 
